@@ -1,0 +1,2 @@
+public class uyhu {
+}
