@@ -1,0 +1,14 @@
+Index: src/main/java/i.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/i.java	(revision 494df8355b6da40153c0c0a661cbfb8566463a23)
++++ src/main/java/i.java	(revision b8acbba6fb31b765acc73de844ff0e043224897a)
+@@ -4,5 +4,6 @@
+ public class i {
+     public static void main(String[] args) {
+         System.out.println("1");
++        //difjofdfosdijgioz
+     }
+ }

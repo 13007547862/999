@@ -8,6 +8,6 @@ public class i {
     
     
       //gsklfgslfjgiruejgisdnvassjoasfaif
-        fijgoagjaomaoldlmkemaero
+       // fijgoagjaomaoldlmkemaero
     }
 }
